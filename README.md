@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Qurani Karim](https://github.com/mohamedelbalooty/qurany_karim)
 
-- 🌱 I’m currently learning **Solid Principles**
+- 🌱 I’m currently learning **Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedelbalooty](https://github.com/mohamedelbalooty)
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, OOP, SOLID**
 
 - 📫 How to reach me **mohamedelbalooty123@gmail.com**
 
@@ -22,6 +22,50 @@
 </p>
 
 <h2> Samples from my projects </h2>
+
+### Hqol-حقول
+Hqol is an e-commerce application that specializes in selling organic products. This project is built on
+clean architecture pattern with getx eco-system and Bagisto web service for backend, Integrated with
+Moyasar payment gateway and many of shipping ways like Torod and Aramex.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=com.salla.hqolsa) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
+alt='Get it on Apple Store'
+height="50">](https://apps.apple.com/us/app/%D8%AD%D9%82%D9%88%D9%84-hqol/id1507396377)
+
+### World Maintenance-عالم الصيانة
+Maintenance world app is the ideal solution for institutions, companies and individuals to receive
+communications, report faults and implement technical support requests with an easy and fast control
+panel that helps speed up the completion of work in record time.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=com.alam_elsianah.alam_elsianah) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
+alt='Get it on Apple Store'
+height="50">](https://apps.apple.com/us/app/maintenance-world-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9/id1669008282?platform=iphone)
+
+### IQAMTI
+Iqamati is an application for booking hotels in all cities of the Kingdom of Saudi Arabia with the best offers
+and competitive prices. Enjoy browsing the most beautiful accommodation inns for holidays and
+entertainment seasons.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=com.iqamti_app) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
+alt='Get it on Apple Store'
+height="50">](https://apps.apple.com/br/app/iqamti-%D8%A5%D9%82%D8%A7%D9%85%D8%AA%D9%8A/id1605716549?l=en)
+
+### tsawqsale-تسوق سيل
+Tsawq Sale (Display and sell products service) helps you to discover products about one of many
+categories like cars, real estates, jobs and etc.... You can register on application with normal user or
+store user to show your services and sell your products.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=com.tsawq.sale&hl=ar&gl=US&pli=1) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
+alt='Get it on Apple Store'
+height="50">](https://apps.apple.com/qa/app/%D8%AA%D8%B3%D9%88%D9%82-%D8%B3%D9%8A%D9%84-tsawq-sale/id1588706334)
 
 ### Qurani Karim
 Qurani Karim is the islamic application that you can read quran and listen to it.
