@@ -1,19 +1,16 @@
 ![MasterHead](https://1.bp.blogspot.com/-b6bxqJmHSBQ/YCF7iAb1e8I/AAAAAAAAQD4/bjVGymoEwg4HKkjQI04cj9LyYnHS4LhdQCLcBGAsYHQ/s0/new-curriculum-for-android-educators-social-v4.png)
 <h1 align="center">Hi 👋, I'm Mohamed Elbalooty</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center">Senior Flutter Developer Specializing in Scalable Mobile Apps</h3>
 <img align= "right" alt= "Coding" width= "400" src= "https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on **Hammem**
+## About Me
+I am a Senior Flutter Developer with over 4 years of experience creating scalable, user-focused mobile applications across fintech, e-commerce, and other industries. My expertise lies in delivering innovative solutions that meet user needs while maintaining high performance and security.
 
-- 🌱 I’m currently learning **Design Patterns**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mohamedelbalooty](https://github.com/mohamedelbalooty)
-
-- 💬 Ask me about **Flutter, Dart, OOP, SOLID**
-
-- 📫 How to reach me **mohamedelbalooty123@gmail.com**
-
-- ⚡ Fun fact **I think, I am funy**
+- 🔭 Currently working on **UFO-Taxi**, building innovative mobile solutions.
+- 🌱 Exploring advanced **Android** development to expand my expertise.
+- 💬 Ask me about **Flutter, Dart, OOP, SOLID, and Design Patterns**.
+- 👨‍💻 Check out all my projects on [GitHub](https://github.com/mohamedelbalooty).
+- 📫 Reach me at **mohamedelbalooty123@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,10 +20,44 @@
 
 <h2> Samples from my projects </h2>
 
+### Lirat Wallet-محفظة ليرات
+Lirat Wallet is a cutting-edge fintech application designed to provide a seamless and secure e-wallet experience for individuals and businesses.
+The app offers a wide range of financial services, including multi-currency transactions, advanced security protocols,
+and user-friendly features to cater to modern financial needs.
+- **Key Features:** Secure login, real-time transactions, multilingual support.
+- **Value Delivered:** Simplified financial management with top-tier security.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
+
+### Card App
+Lirat Wallet is a versatile fintech application designed to streamline financial transactions with features like virtual card creation,
+money transfers, and account management, all while ensuring top-tier security and multilingual accessibility.
+- **Key Features:** Virtual card creation, secure login, multi-language support, real-time money transfers.
+- **Value Delivered:** Enhanced user convenience with secure and reliable financial services.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=app.carda.app)
+
+### Azda
+Azda App is a purpose-built application designed to streamline worker transportation services during the Hajj season in Saudi Arabia.
+The app offers a seamless experience for managing transportation between hotels and pilgrimage centers, ensuring efficiency and ease for users.
+- **Key Features:** Secure login, multilingual support, real-time tracking of transportation requests.
+- **Value Delivered:** Streamlined transportation management, ensuring efficiency and accessibility.
+
+[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
+alt='Get it on Google Play'
+height="50">](https://play.google.com/store/apps/details?id=sa.azda_v2.app) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
+alt='Get it on Apple Store'
+height="50">](https://apps.apple.com/eg/app/azda/id6499463779)
+
 ### Hqol-حقول
-Hqol is an e-commerce application that specializes in selling organic products. This project is built on
-clean architecture pattern with getx eco-system and Bagisto web service for backend, Integrated with
-Moyasar payment gateway and many of shipping ways like Torod and Aramex.
+HQOL is the largest e-commerce platform in Saudi Arabia specializing in certified organic products.
+The app simplifies access to high-quality organic goods by collecting all certified items and delivering them chilled right to your doorstep.
+- **Key Features:** Secure checkout, Moyasar payment integration, Torod and Aramex delivery, Google Maps integration.
+- **Value Delivered:** Easy access to organic products, enhanced customer trust through certified goods, and efficient delivery logistics.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
@@ -38,6 +69,8 @@ height="50">](https://apps.apple.com/us/app/%D8%AD%D9%82%D9%88%D9%84-hqol/id1507
 Maintenance world app is the ideal solution for institutions, companies and individuals to receive
 communications, report faults and implement technical support requests with an easy and fast control
 panel that helps speed up the completion of work in record time.
+- **Key Features:** Real-time notifications, request tracking, Google Maps integration, multilingual support.
+- **Value Delivered:** Faster issue resolution with streamlined communication and easy request management.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
@@ -49,6 +82,8 @@ height="50">](https://apps.apple.com/us/app/maintenance-world-%D8%B9%D8%A7%D9%84
 Iqamati is an application for booking hotels in all cities of the Kingdom of Saudi Arabia with the best offers
 and competitive prices. Enjoy browsing the most beautiful accommodation inns for holidays and
 entertainment seasons.
+- **Key Features:** Hotel search, secure booking, multi-currency payment options, real-time availability.
+- **Value Delivered:** Simplified hotel booking with access to the best deals and seamless payment options.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
@@ -57,9 +92,9 @@ alt='Get it on Apple Store'
 height="50">](https://apps.apple.com/br/app/iqamti-%D8%A5%D9%82%D8%A7%D9%85%D8%AA%D9%8A/id1605716549?l=en)
 
 ### tsawqsale-تسوق سيل
-Tsawq Sale (Display and sell products service) helps you to discover products about one of many
-categories like cars, real estates, jobs and etc.... You can register on application with normal user or
-store user to show your services and sell your products.
+A marketplace app enabling users to explore and sell products in categories like cars, real estate, and jobs.
+- **Key Features:** Secure login, Firebase notifications, social and phone authentication, product listing management.
+- **Value Delivered:** Empowered users to showcase products easily and reach a broader audience.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
@@ -68,33 +103,22 @@ alt='Get it on Apple Store'
 height="50">](https://apps.apple.com/qa/app/%D8%AA%D8%B3%D9%88%D9%82-%D8%B3%D9%8A%D9%84-tsawq-sale/id1588706334)
 
 ### Qurani Karim
-Qurani Karim is the islamic application that you can read quran and listen to it.
+An Islamic app allowing users to read and listen to the Quran on the go.
+- **Key Features:** Audio playback, intuitive reading interface, bookmarking, offline access.
+- **Value Delivered:** Convenient access to the Quran for spiritual growth and ease of use.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.mohamedElbalooty.qurani_karim)
 
 ### Akhbary
-Akhbary is the news application that shows the latest news in Egypt and United States for many categories such as business, health, sports and etc.....
+A news application offering the latest updates across various categories in Egypt and the US.
+- **Key Features:** Category-based news filtering, real-time updates, user-friendly interface.
+- **Value Delivered:** Simplified news browsing with up-to-date content tailored to user preferences.
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
 alt='Get it on Google Play'
 height="50">](https://play.google.com/store/apps/details?id=com.mohamedElbalooty.akhbary)
-
-### Taskaia
-Taskaia is the note application that show user created notes, tasks and memories.
-I applied all logic you can occurred on any note app such as create or delete or update any of user tasks.
-
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.mohamedElbalooty.taskaia)
-
-### Shop Store
-Shop store is the e-commerce application that show products on some categories like Electronics and Clothes. I applied all logic you can occurred on any commerce app such as cart items , filtering by price or product name , local favourite products and detect current location and address when user pay on that.
-
-[<img src="https://miro.medium.com/max/4000/1*8HHpgXJkc6jQSiNT42EiBg.png"
-alt='Get it on Github'
-height="50">](https://github.com/mohamedelbalooty/shop_store)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
