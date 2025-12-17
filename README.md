@@ -4,7 +4,7 @@
 <img align= "right" alt= "Coding" width= "400" src= "https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 ## About Me
-I am a Senior Flutter Developer with over 4 years of experience creating scalable, user-focused mobile applications across fintech, e-commerce, and other industries. My expertise lies in delivering innovative solutions that meet user needs while maintaining high performance and security.
+I am a Senior Flutter Developer with over 5 years of experience creating scalable, user-focused mobile applications across fintech, e-commerce, and other industries. My expertise lies in delivering innovative solutions that meet user needs while maintaining high performance and security.
 
 - 🔭 Currently working on **UFO-Taxi**, building innovative mobile solutions.
 - 🌱 Exploring advanced **Android** development to expand my expertise.
