@@ -95,17 +95,31 @@ Notable integrations include **Zid** and **Salla** e-commerce themes (via Bagist
 
 ## Selected Projects
 
-A curated selection of production applications across fintech, logistics, and hospitality. *More projects coming soon.*
+A curated selection of production applications across e-commerce, delivery, fintech, logistics, and hospitality. *More projects coming soon.*
 
-### Lirat Wallet — محفظة ليرات
-**Fintech · Digital Wallet**
+### Lia — ليا
+**E-commerce · Multi-Vendor Gifting Marketplace**
 
-A SaaS-based e-wallet for individuals and businesses, supporting multi-currency transactions, secure authentication, and account management.
+A multi-vendor gifting marketplace that makes sending flowers and gifts effortless for any occasion. Users browse in-app stores offering perfumes, fashion, abayas, antiques, artwork, makeup, chocolates, and curated flower arrangements, with delivery in as little as 1–1.5 hours.
 
-- Architected and developed the application using Flutter and Dart
-- Delivered secure payment and transaction flows with multi-currency and multilingual support
+- Multi-vendor catalog with store browsing, product discovery, and a smooth checkout flow
+- Fast, time-sensitive order delivery built for gifting occasions
+- Part of a two-app ecosystem with **Lia Delivery** for end-to-end order fulfillment
 
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.liaClient)
+[![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/lia/id6756233050)
+
+### Lia Delivery
+**Logistics · Courier & Order Fulfillment**
+
+The courier companion app for the Lia marketplace, enabling drivers to receive, manage, and deliver orders efficiently while maximizing daily earnings.
+
+- Instant order dispatch with real-time new-order notifications
+- Order details with precise customer location and in-app navigation
+- Route and delivery schedule planning for efficient fulfillment
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.liaDelivery)
+[![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/lia-delivery/id6756253953)
 
 ### Card App
 **Fintech · Virtual Cards & Money Transfer**
@@ -116,6 +130,16 @@ A fintech application for everyday financial transactions, including virtual car
 - Delivered virtual card, transfer, and secure login workflows with multilingual support
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.carda.app)
+
+### Lirat Wallet — محفظة ليرات
+**Fintech · Digital Wallet**
+
+A SaaS-based e-wallet for individuals and businesses, supporting multi-currency transactions, secure authentication, and account management.
+
+- Architected and developed the application using Flutter and Dart
+- Delivered secure payment and transaction flows with multi-currency and multilingual support
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
 ### Azda — أزدة
 **Logistics · Hajj Transportation · Saudi Arabia**
