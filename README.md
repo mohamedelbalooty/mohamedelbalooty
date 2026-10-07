@@ -1,130 +1,162 @@
-![MasterHead](https://1.bp.blogspot.com/-b6bxqJmHSBQ/YCF7iAb1e8I/AAAAAAAAQD4/bjVGymoEwg4HKkjQI04cj9LyYnHS4LhdQCLcBGAsYHQ/s0/new-curriculum-for-android-educators-social-v4.png)
-<h1 align="center">Hi 👋, I'm Mohamed Elbalooty</h1>
-<h3 align="center">Senior Flutter Developer Specializing in Scalable Mobile Apps</h3>
-<img align= "right" alt= "Coding" width= "400" src= "https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Mohamed%20Elbalooty&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Team%20Lead%20%7C%20Senior%20Flutter%20Engineer&descAlignY=55&descAlign=50" alt="Mohamed Elbalooty" />
 
-## About Me
-I am a Senior Flutter Developer with over 5 years of experience creating scalable, user-focused mobile applications across fintech, e-commerce, and other industries. My expertise lies in delivering innovative solutions that meet user needs while maintaining high performance and security.
+<br />
 
-- 🔭 Currently working on **UFO-Taxi**, building innovative mobile solutions.
-- 🌱 Exploring advanced **Android** development to expand my expertise.
-- 💬 Ask me about **Flutter, Dart, OOP, SOLID, and Design Patterns**.
-- 👨‍💻 Check out all my projects on [GitHub](https://github.com/mohamedelbalooty).
-- 📫 Reach me at **mohamedelbalooty123@gmail.com**.
+Building, leading, and delivering production mobile applications — from architecture and development to App Store and Google Play release.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-elbalooty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elbalooty" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed.elbalooty.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.elbalooty.9" height="30" width="40" /></a>
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elbalooty)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelbalooty123@gmail.com)
+![Location](https://img.shields.io/badge/Cairo,_Egypt-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br />
+
+[Summary](#professional-summary) &nbsp;·&nbsp; [What I Bring](#what-i-bring) &nbsp;·&nbsp; [Expertise](#core-expertise) &nbsp;·&nbsp; [Experience](#experience) &nbsp;·&nbsp; [Projects](#selected-projects) &nbsp;·&nbsp; [Contact](#contact)
+
+</div>
+
+---
+
+## Professional Summary
+
+Flutter Team Lead with **5+ years** of experience working across the full mobile software lifecycle — **architecture, development, testing, release, and ongoing delivery** — while leading mobile teams and adapting solutions to diverse business requirements.
+
+I currently lead Flutter development at **Tasawk**, where I design scalable, **SaaS flavor-based architectures** for multi-client deployments and own App Store and Google Play releases across multiple apps. Previously, I led a **5-member mobile team** at Geexar, architecting fintech platforms including digital wallets and virtual card products.
+
+I have delivered applications across a wide range of business models — **fintech, e-commerce, healthcare, POS/ERP, logistics, hospitality, and on-demand delivery** — working with clients across **Egypt, Saudi Arabia, the UAE, and Kuwait**.
+
+---
+
+## What I Bring
+
+| 🛠️ Engineering | 👥 Leadership | 🚀 Delivery |
+| :--- | :--- | :--- |
+| Clean Architecture, SOLID, and proven design patterns | Leading Flutter development and mobile teams | Ownership of the full lifecycle: planning → development → testing → release → maintenance |
+| SaaS flavor-based, multi-client app environments | Agile sprint planning and task breakdown | App Store and Google Play releases, compliance, and continuous updates |
+| Modular, reusable, and testable codebases | Code reviews and engineering standards | CI/CD pipelines with GitHub Actions and Fastlane |
+| Performance tuning, offline caching, secure auth | Mentoring and growing junior developers | Close collaboration with product, backend, and stakeholders |
+| Payments, in-app purchases, maps, WebRTC, native Android | Driving architectural decisions | Reliable, on-time delivery of scalable business solutions |
+
+---
+
+## Industries & Business Domains
+
+![Fintech](https://img.shields.io/badge/Fintech-1F2937?style=flat-square)
+![E-commerce](https://img.shields.io/badge/E--commerce-1F2937?style=flat-square)
+![Healthcare](https://img.shields.io/badge/Healthcare-1F2937?style=flat-square)
+![POS / ERP](https://img.shields.io/badge/POS_%2F_ERP-1F2937?style=flat-square)
+![Logistics](https://img.shields.io/badge/Logistics-1F2937?style=flat-square)
+![Hospitality](https://img.shields.io/badge/Hospitality-1F2937?style=flat-square)
+![Delivery](https://img.shields.io/badge/Delivery-1F2937?style=flat-square)
+![Gifting](https://img.shields.io/badge/Gifting-1F2937?style=flat-square)
+![Recycling](https://img.shields.io/badge/Recycling-1F2937?style=flat-square)
+![Water Delivery](https://img.shields.io/badge/Water_Delivery-1F2937?style=flat-square)
+
+Notable integrations include **Zid** and **Salla** e-commerce themes (via Bagisto and OpenCart), **POS machine SDKs and ECR** systems connected to ERP platforms, and operational platforms for the **Hajj season** in Saudi Arabia.
+
+---
+
+## Core Expertise
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple,firebase,graphql,sqlite,githubactions,git,github,postman" alt="Tech stack icons" />
 </p>
 
-<h2> Samples from my projects </h2>
+| Category | Skills |
+| :--- | :--- |
+| **Languages & Frameworks** | Dart, Flutter, Kotlin |
+| **Platforms** | Android SDK, iOS SDK |
+| **State Management** | BLoC, Provider, GetX |
+| **Architecture & Patterns** | OOP, SOLID, Clean Architecture, MVVM, MVC, Design Patterns |
+| **APIs & Data** | RESTful APIs, GraphQL, Firebase, Socket.IO, Pusher, SQLite |
+| **Product Features** | Secure Auth & Token Management, Payment Gateways, In-App Purchases, Offline Caching, Google Maps, WebRTC |
+| **Quality & Testing** | Unit, Widget & Integration Testing, Performance Optimization, Code Reviews |
+| **Delivery & DevOps** | CI/CD (GitHub Actions, Fastlane), App Store & Google Play Deployment |
+| **Methodologies** | SDLC, Agile (Scrum), Waterfall |
+| **AI-Assisted Development** | ChatGPT, GitHub Copilot, Cursor, Claude |
 
-### Lirat Wallet-محفظة ليرات
-Lirat Wallet is a cutting-edge fintech application designed to provide a seamless and secure e-wallet experience for individuals and businesses.
-The app offers a wide range of financial services, including multi-currency transactions, advanced security protocols,
-and user-friendly features to cater to modern financial needs.
-- **Key Features:** Secure login, real-time transactions, multilingual support.
-- **Value Delivered:** Simplified financial management with top-tier security.
+---
 
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
+## Experience
+
+| Period | Company | Role | Highlights |
+| :--- | :--- | :--- | :--- |
+| Jul 2025 – Present | **Tasawk** | Flutter Team Leader | Leading Flutter development and the full mobile lifecycle; SaaS flavor-based architecture for multi-client deployments; managing releases across multiple apps |
+| Mar 2024 – Jun 2025 | **Geexar** | Senior Flutter Developer | Architected SaaS fintech platforms (Lirat, P2P Syria, Card App); led a 5-member mobile team with Agile sprints, code reviews, and mentoring |
+| Jan 2023 – Feb 2024 | **NEOXERO** | Senior Flutter Developer | Delivered 6+ white-labeled e-commerce apps supporting Zid and Salla themes via Bagisto and OpenCart |
+| Apr 2022 – Dec 2022 | **Crystal Mind** | Flutter Developer | Built POS and ECR apps for ERP systems with reusable, testable POS SDK modules |
+| Mar 2021 – Apr 2022 | **WaitBuzz_Co** | Flutter Developer | Built customer-facing features aligned with business objectives |
+
+**Education:** B.Sc. in Computer Science, Mansoura University (2017 – 2021)
+
+---
+
+## Selected Projects
+
+A curated selection of production applications across fintech, logistics, and hospitality. *More projects coming soon.*
+
+### Lirat Wallet — محفظة ليرات
+**Fintech · Digital Wallet**
+
+A SaaS-based e-wallet for individuals and businesses, supporting multi-currency transactions, secure authentication, and account management.
+
+- Architected and developed the application using Flutter and Dart
+- Delivered secure payment and transaction flows with multi-currency and multilingual support
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
 ### Card App
-Lirat Wallet is a versatile fintech application designed to streamline financial transactions with features like virtual card creation,
-money transfers, and account management, all while ensuring top-tier security and multilingual accessibility.
-- **Key Features:** Virtual card creation, secure login, multi-language support, real-time money transfers.
-- **Value Delivered:** Enhanced user convenience with secure and reliable financial services.
+**Fintech · Virtual Cards & Money Transfer**
 
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=app.carda.app)
+A fintech application for everyday financial transactions, including virtual card issuance, money transfers, and account management.
 
-### Azda
-Azda App is a purpose-built application designed to streamline worker transportation services during the Hajj season in Saudi Arabia.
-The app offers a seamless experience for managing transportation between hotels and pilgrimage centers, ensuring efficiency and ease for users.
-- **Key Features:** Secure login, multilingual support, real-time tracking of transportation requests.
-- **Value Delivered:** Streamlined transportation management, ensuring efficiency and accessibility.
+- Architected and developed the application using Flutter and Dart
+- Delivered virtual card, transfer, and secure login workflows with multilingual support
 
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=sa.azda_v2.app) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
-alt='Get it on Apple Store'
-height="50">](https://apps.apple.com/eg/app/azda/id6499463779)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.carda.app)
 
-### Hqol-حقول
-HQOL is the largest e-commerce platform in Saudi Arabia specializing in certified organic products.
-The app simplifies access to high-quality organic goods by collecting all certified items and delivering them chilled right to your doorstep.
-- **Key Features:** Secure checkout, Moyasar payment integration, Torod and Aramex delivery, Google Maps integration.
-- **Value Delivered:** Easy access to organic products, enhanced customer trust through certified goods, and efficient delivery logistics.
+### Azda — أزدة
+**Logistics · Hajj Transportation · Saudi Arabia**
 
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.salla.hqolsa) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
-alt='Get it on Apple Store'
-height="50">](https://apps.apple.com/us/app/%D8%AD%D9%82%D9%88%D9%84-hqol/id1507396377)
+A mobility application managing worker transportation during the Hajj season, coordinating transit between hotels and pilgrimage centers.
 
-### World Maintenance-عالم الصيانة
-Maintenance world app is the ideal solution for institutions, companies and individuals to receive
-communications, report faults and implement technical support requests with an easy and fast control
-panel that helps speed up the completion of work in record time.
-- **Key Features:** Real-time notifications, request tracking, Google Maps integration, multilingual support.
-- **Value Delivered:** Faster issue resolution with streamlined communication and easy request management.
+- Real-time request tracking for operational efficiency
+- Arabic/English multilingual experience with secure authentication
 
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.alam_elsianah.alam_elsianah) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
-alt='Get it on Apple Store'
-height="50">](https://apps.apple.com/us/app/maintenance-world-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9/id1669008282?platform=iphone)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.azda_v2.app)
+[![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/azda/id6499463779)
 
-### IQAMTI
-Iqamati is an application for booking hotels in all cities of the Kingdom of Saudi Arabia with the best offers
-and competitive prices. Enjoy browsing the most beautiful accommodation inns for holidays and
-entertainment seasons.
-- **Key Features:** Hotel search, secure booking, multi-currency payment options, real-time availability.
-- **Value Delivered:** Simplified hotel booking with access to the best deals and seamless payment options.
+### IQAMTI — إقامتي
+**Hospitality · Hotel Booking · Saudi Arabia**
 
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.iqamti_app) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
-alt='Get it on Apple Store'
-height="50">](https://apps.apple.com/br/app/iqamti-%D8%A5%D9%82%D8%A7%D9%85%D8%AA%D9%8A/id1605716549?l=en)
+A hotel discovery and booking platform across Saudi Arabia, supporting seasonal accommodations and direct reservations.
 
-### tsawqsale-تسوق سيل
-A marketplace app enabling users to explore and sell products in categories like cars, real estate, and jobs.
-- **Key Features:** Secure login, Firebase notifications, social and phone authentication, product listing management.
-- **Value Delivered:** Empowered users to showcase products easily and reach a broader audience.
+- Hotel search, availability, and secure booking workflow
+- Multi-currency payment options
 
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.tsawq.sale&hl=ar&gl=US&pli=1) [<img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg"
-alt='Get it on Apple Store'
-height="50">](https://apps.apple.com/qa/app/%D8%AA%D8%B3%D9%88%D9%82-%D8%B3%D9%8A%D9%84-tsawq-sale/id1588706334)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.iqamti_app)
+[![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/br/app/iqamti-%D8%A5%D9%82%D8%A7%D9%85%D8%AA%D9%8A/id1605716549?l=en)
 
-### Qurani Karim
-An Islamic app allowing users to read and listen to the Quran on the go.
-- **Key Features:** Audio playback, intuitive reading interface, bookmarking, offline access.
-- **Value Delivered:** Convenient access to the Quran for spiritual growth and ease of use.
+---
 
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.mohamedElbalooty.qurani_karim)
+## GitHub Activity
 
-### Akhbary
-A news application offering the latest updates across various categories in Egypt and the US.
-- **Key Features:** Category-based news filtering, real-time updates, user-friendly interface.
-- **Value Delivered:** Simplified news browsing with up-to-date content tailored to user preferences.
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mohamedelbalooty&show_icons=true&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelbalooty&layout=compact&hide_border=true&locale=en" alt="Top Languages" />
+</div>
 
-[<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
-alt='Get it on Google Play'
-height="50">](https://play.google.com/store/apps/details?id=com.mohamedElbalooty.akhbary)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Contact
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelbalooty&show_icons=true&locale=en&layout=compact" alt="mohamedelbalooty" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedelbalooty&show_icons=true&locale=en" alt="mohamedelbalooty" /></p>
+Open to conversations about **Flutter leadership roles**, mobile architecture, and product delivery.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedelbalooty&" alt="mohamedelbalooty" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elbalooty)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelbalooty123@gmail.com)
+
+</div>
