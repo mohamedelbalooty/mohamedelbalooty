@@ -97,7 +97,7 @@ Notable integrations include **Zid** and **Salla** e-commerce themes (via Bagist
 
 A curated selection of production applications across e-commerce, delivery, fintech, logistics, and hospitality. *More projects coming soon.*
 
-### Lia — ليا
+### <img src="https://play-lh.googleusercontent.com/UkBTzQJwTncwbGkFATmXalOuqDflSdWROcboQgD_XtMbEvqMVM2I8EfsVQHYFImNqO7AMGNbCEQHeYCrIIV4eg=s64-rw" width="32" valign="middle" /> Lia — ليا
 **E-commerce · Multi-Vendor Gifting Marketplace**
 
 A multi-vendor gifting marketplace that makes sending flowers and gifts effortless for any occasion. Users browse in-app stores offering perfumes, fashion, abayas, antiques, artwork, makeup, chocolates, and curated flower arrangements, with delivery in as little as 1–1.5 hours.
@@ -109,7 +109,7 @@ A multi-vendor gifting marketplace that makes sending flowers and gifts effortle
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.liaClient)
 [![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/lia/id6756233050)
 
-### Lia Delivery
+### <img src="https://play-lh.googleusercontent.com/ENp6P6En9CzMc-5KHucvXZqqpi-8TspOBZPZxzRMfRxavmles30VRGgVBMgf5FF88FQKTrho8tAClmRwj3AwNw=s64-rw" width="32" valign="middle" /> Lia Delivery
 **Logistics · Courier & Order Fulfillment**
 
 The courier companion app for the Lia marketplace, enabling drivers to receive, manage, and deliver orders efficiently while maximizing daily earnings.
@@ -131,7 +131,7 @@ A fintech application for everyday financial transactions, including virtual car
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.carda.app)
 
-### Lirat Wallet — محفظة ليرات
+### <img src="https://play-lh.googleusercontent.com/BhMRmeQmbAnkrI9s3BZEqo_b7VzpUKz0rM5OOvKJfR5ip-MJkD449uzqWyz8tWhzXH5PNkv9Mi0Xe9EiConacg=s64-rw" width="32" valign="middle" /> Lirat Wallet — محفظة ليرات
 **Fintech · Digital Wallet**
 
 A SaaS-based e-wallet for individuals and businesses, supporting multi-currency transactions, secure authentication, and account management.
@@ -141,7 +141,7 @@ A SaaS-based e-wallet for individuals and businesses, supporting multi-currency 
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
-### Azda — أزدة
+### <img src="https://play-lh.googleusercontent.com/zvnCs8k7N2xeGadQpKLoKsHaJLP3ERH3EYaim3UhhcFR10O-FSoaX9YbIq0b6O2Ni7LMmnEsYO9oBJ4wrlCnDA=s64-rw" width="32" valign="middle" /> Azda — أزدة
 **Logistics · Hajj Transportation · Saudi Arabia**
 
 A mobility application managing worker transportation during the Hajj season, coordinating transit between hotels and pilgrimage centers.
@@ -152,7 +152,7 @@ A mobility application managing worker transportation during the Hajj season, co
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.azda_v2.app)
 [![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/azda/id6499463779)
 
-### IQAMTI — إقامتي
+### <img src="https://play-lh.googleusercontent.com/_52hL0NMfBW6MtQCK6kBhaRUL0gNyDAwKbcP0ZXq37nRds5hV8KwBNpB1QqYdURQ9pP97BYbMeYnbth8IZnDiA=s64-rw" width="32" valign="middle" /> IQAMTI — إقامتي
 **Hospitality · Hotel Booking · Saudi Arabia**
 
 A hotel discovery and booking platform across Saudi Arabia, supporting seasonal accommodations and direct reservations.
