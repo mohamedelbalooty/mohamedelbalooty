@@ -97,7 +97,46 @@ Notable integrations include **Zid** and **Salla** e-commerce themes (via Bagist
 
 A curated selection of production applications across e-commerce, delivery, fintech, logistics, and hospitality. *More projects coming soon.*
 
-### <img src="https://play-lh.googleusercontent.com/UkBTzQJwTncwbGkFATmXalOuqDflSdWROcboQgD_XtMbEvqMVM2I8EfsVQHYFImNqO7AMGNbCEQHeYCrIIV4eg=s64-rw" width="32" valign="middle" /> Lia — ليا
+### <img src="https://play-lh.googleusercontent.com/aFC1QbGqER-fya27kCCV5wY7ChsVVYalZYcB6U6BIHrj4XYseoCpp5U_J6-ENcPJEHZaSkaNywUTHykLOQhp=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Khurdah — خردة
+**E-commerce · Circular Economy & Scrap Recycling Marketplace · Saudi Arabia**
+
+The go-to circular economy scrap recycling marketplace operating across major cities in Saudi Arabia, achieving **50K+ downloads in its first year**. Owned the complete product engineering lifecycle — designing, architecting, developing through to delivery and store releases, while hiring and mentoring the technical engineering team. Enables households and enterprises to sell used metals (iron, aluminum, copper, electronics) with on-site inspection, transparent market valuation, charity donation options, and fast bank payouts.
+
+- End-to-end request lifecycle with scrap categorization, multi-photo capture, and doorstep pickup scheduling
+- Integrated valuation workflow with delegate appraisal, charity donation pledge, and secure bank transfer payouts
+- Part of a comprehensive 3-tier ecosystem collaborating with **Khurdah Driver** and **Khurdah ERP & Logistics**
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.khurdah.client&hl=en)
+[![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ca/app/khurdah-%D8%AE%D8%B1%D8%AF%D8%A9/id6504227486)
+[![Website](https://img.shields.io/badge/Website-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://khurdah.com)
+
+### <img src="https://play-lh.googleusercontent.com/bWFZeQFtzV-PW9yBWnRHDcea0MWd4AeFcQe-8M5iZ9CGe02DZqTnP4pu0Gdjeq52Hr5pug5Nn-A8qHf2lL3ClAo=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Khurdah Driver — سائق خردة
+**Logistics · Fleet & Dispatch Management · Saudi Arabia**
+
+The dedicated logistics fleet companion application for Khurdah drivers across Saudi Arabia, streamlining scrap collection routes, pickup appointments, and transport to centralized recycling facilities.
+
+- Real-time order dispatching with customer location mapping and optimized turn-by-turn navigation
+- On-site order verification, scrap weight validation, and collection status updates
+- Live synchronization with central operations for schedule tracking and fleet management
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.khurdah.driver&hl=en)
+[![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ca/app/asas-mineral-driver/id6695752692)
+[![Website](https://img.shields.io/badge/Website-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://khurdah.com)
+
+### <img src="https://play-lh.googleusercontent.com/w6jMjljR1-Dqb5535PFtJn8Tp6bUMrxhnpZMoEq0U8l07o-Yu8EiKybpvh9eHeNJjWI5eMBetcUDBGe-g7yREw=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Khurdah ERP & Logistics — مندوب خردة
+**POS / ERP · Field Inspection & Enterprise Operations · Saudi Arabia**
+
+The enterprise field operations application (Asas Mineral Rep) engineered for recycling delegates and appraisers to inspect, grade, and evaluate scrap materials on-site with real-time enterprise ERP synchronization.
+
+- On-site material classification tree (copper, aluminum, iron, cables, electronics) with digital weighing verification
+- Dynamic pricing quotation generator calculating client payouts or charity donation values based on daily rate cards
+- Digital client agreement signatures with instant, bi-directional sync to central ERP inventory and financial ledgers
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.khurdah.rep&hl=en)
+[![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ca/app/asas-mineral-rep/id6698865452)
+[![Website](https://img.shields.io/badge/Website-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://khurdah.com)
+
+### <img src="https://play-lh.googleusercontent.com/UkBTzQJwTncwbGkFATmXalOuqDflSdWROcboQgD_XtMbEvqMVM2I8EfsVQHYFImNqO7AMGNbCEQHeYCrIIV4eg=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Lia — ليا
 **E-commerce · Multi-Vendor Gifting Marketplace**
 
 A multi-vendor gifting marketplace that makes sending flowers and gifts effortless for any occasion. Users browse in-app stores offering perfumes, fashion, abayas, antiques, artwork, makeup, chocolates, and curated flower arrangements, with delivery in as little as 1–1.5 hours.
@@ -109,7 +148,7 @@ A multi-vendor gifting marketplace that makes sending flowers and gifts effortle
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.liaClient)
 [![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/lia/id6756233050)
 
-### <img src="https://play-lh.googleusercontent.com/ENp6P6En9CzMc-5KHucvXZqqpi-8TspOBZPZxzRMfRxavmles30VRGgVBMgf5FF88FQKTrho8tAClmRwj3AwNw=s64-rw" width="32" valign="middle" /> Lia Delivery
+### <img src="https://play-lh.googleusercontent.com/ENp6P6En9CzMc-5KHucvXZqqpi-8TspOBZPZxzRMfRxavmles30VRGgVBMgf5FF88FQKTrho8tAClmRwj3AwNw=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Lia Delivery
 **Logistics · Courier & Order Fulfillment**
 
 The courier companion app for the Lia marketplace, enabling drivers to receive, manage, and deliver orders efficiently while maximizing daily earnings.
@@ -121,7 +160,19 @@ The courier companion app for the Lia marketplace, enabling drivers to receive, 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.liaDelivery)
 [![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/lia-delivery/id6756253953)
 
-### Card App
+### <img src="https://play-lh.googleusercontent.com/zUGg8ZsstOo9IhVtHe2TW48IZtSf9WcgEUJ2MNw6e_OSA1FEHJtnlik-PItF2LG4zK3wekUZCofjpbq1nK58jg=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Anakeed Alfakeha — عناقيد الفاكهة
+**E-commerce · Fresh Produce & Quick Commerce · Saudi Arabia**
+
+An on-demand grocery and fresh produce delivery platform connecting consumers with trusted farms across Saudi Arabia. Users order fresh fruits, vegetables, greens, prepped cuts, and fresh juices with rapid doorstep delivery.
+
+- Categorized catalog with dynamic filtering, seasonal collections, and an intuitive checkout flow
+- Real-time order lifecycle tracking from farm packaging to courier dispatch
+- Secure phone/OTP authentication, multiple payment methods (electronic & cash on delivery), and scheduled delivery windows
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.anaqeedalfakhaT)
+[![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/sa/app/%D8%B9%D9%86%D8%A7%D9%82%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%A7%D9%83%D9%87%D8%A9/id6755475924)
+
+### <img src="https://play-lh.googleusercontent.com/G_77SysTblbmVaUsSsfHnPNXvef5K_n3P1XGHP9YbBqj76gbpVXNhY9QevRyf6aubnXfucdqRq_0_PUJ8QUydw=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Card App
 **Fintech · Virtual Cards & Money Transfer**
 
 A fintech application for everyday financial transactions, including virtual card issuance, money transfers, and account management.
@@ -131,7 +182,7 @@ A fintech application for everyday financial transactions, including virtual car
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.carda.app)
 
-### <img src="https://play-lh.googleusercontent.com/BhMRmeQmbAnkrI9s3BZEqo_b7VzpUKz0rM5OOvKJfR5ip-MJkD449uzqWyz8tWhzXH5PNkv9Mi0Xe9EiConacg=s64-rw" width="32" valign="middle" /> Lirat Wallet — محفظة ليرات
+### <img src="https://play-lh.googleusercontent.com/BhMRmeQmbAnkrI9s3BZEqo_b7VzpUKz0rM5OOvKJfR5ip-MJkD449uzqWyz8tWhzXH5PNkv9Mi0Xe9EiConacg=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Lirat Wallet — محفظة ليرات
 **Fintech · Digital Wallet**
 
 A SaaS-based e-wallet for individuals and businesses, supporting multi-currency transactions, secure authentication, and account management.
@@ -141,7 +192,7 @@ A SaaS-based e-wallet for individuals and businesses, supporting multi-currency 
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=store.lirat.paymoney)
 
-### <img src="https://play-lh.googleusercontent.com/zvnCs8k7N2xeGadQpKLoKsHaJLP3ERH3EYaim3UhhcFR10O-FSoaX9YbIq0b6O2Ni7LMmnEsYO9oBJ4wrlCnDA=s64-rw" width="32" valign="middle" /> Azda — أزدة
+### <img src="https://play-lh.googleusercontent.com/zvnCs8k7N2xeGadQpKLoKsHaJLP3ERH3EYaim3UhhcFR10O-FSoaX9YbIq0b6O2Ni7LMmnEsYO9oBJ4wrlCnDA=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Azda — أزدة
 **Logistics · Hajj Transportation · Saudi Arabia**
 
 A mobility application managing worker transportation during the Hajj season, coordinating transit between hotels and pilgrimage centers.
@@ -152,7 +203,7 @@ A mobility application managing worker transportation during the Hajj season, co
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.azda_v2.app)
 [![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/azda/id6499463779)
 
-### <img src="https://play-lh.googleusercontent.com/_52hL0NMfBW6MtQCK6kBhaRUL0gNyDAwKbcP0ZXq37nRds5hV8KwBNpB1QqYdURQ9pP97BYbMeYnbth8IZnDiA=s64-rw" width="32" valign="middle" /> IQAMTI — إقامتي
+### <img src="https://play-lh.googleusercontent.com/_52hL0NMfBW6MtQCK6kBhaRUL0gNyDAwKbcP0ZXq37nRds5hV8KwBNpB1QqYdURQ9pP97BYbMeYnbth8IZnDiA=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> IQAMTI — إقامتي
 **Hospitality · Hotel Booking · Saudi Arabia**
 
 A hotel discovery and booking platform across Saudi Arabia, supporting seasonal accommodations and direct reservations.
