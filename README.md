@@ -50,6 +50,7 @@ I have delivered applications across a wide range of business models — **finte
 ![Logistics](https://img.shields.io/badge/Logistics-1F2937?style=flat-square)
 ![Hospitality](https://img.shields.io/badge/Hospitality-1F2937?style=flat-square)
 ![Delivery](https://img.shields.io/badge/Delivery-1F2937?style=flat-square)
+![Food & Beverage](https://img.shields.io/badge/Food_%26_Beverage-1F2937?style=flat-square)
 ![Gifting](https://img.shields.io/badge/Gifting-1F2937?style=flat-square)
 ![Recycling](https://img.shields.io/badge/Recycling-1F2937?style=flat-square)
 ![Water Delivery](https://img.shields.io/badge/Water_Delivery-1F2937?style=flat-square)
@@ -74,8 +75,8 @@ Notable integrations include **Zid** and **Salla** e-commerce themes (via Bagist
 | **Product Features** | Secure Auth & Token Management, Payment Gateways, In-App Purchases, Offline Caching, Google Maps, WebRTC |
 | **Quality & Testing** | Unit, Widget & Integration Testing, Performance Optimization, Code Reviews |
 | **Delivery & DevOps** | CI/CD (GitHub Actions, Fastlane), App Store & Google Play Deployment |
-| **Methodologies** | SDLC, Agile (Scrum), Waterfall |
-| **AI-Assisted Development** | ChatGPT, GitHub Copilot, Cursor, Claude |
+| **Methodologies** | SDLC, Agile (Scrum), Spec-Driven Development (SDD), Waterfall |
+| **AI-Agent Tools & Workflows** | Spec-Kit, Superpowers, Agent Skills, MCPs (Model Context Protocol), Cursor, Claude, GitHub Copilot, ChatGPT |
 
 ---
 
@@ -83,11 +84,24 @@ Notable integrations include **Zid** and **Salla** e-commerce themes (via Bagist
 
 | Period | Company | Role | Highlights |
 | :--- | :--- | :--- | :--- |
-| Jul 2025 – Present | **Tasawk** | Flutter Team Leader | Leading Flutter development and the full mobile lifecycle; SaaS flavor-based architecture for multi-client deployments; managing releases across multiple apps |
-| Mar 2024 – Jun 2025 | **Geexar** | Senior Flutter Developer | Architected SaaS fintech platforms (Lirat, P2P Syria, Card App); led a 5-member mobile team with Agile sprints, code reviews, and mentoring |
+| Jul 2025 – Present | **Tasawk** | Flutter Team Leader | Leading Flutter development and the full mobile lifecycle; SaaS flavor-based architecture for multi-client deployments; driving Spec-Driven Development (SDD) & AI-agent workflows (Spec-Kit, Superpowers, MCPs); managing releases across multiple apps |
+| Mar 2024 – Jul 2025 | **Geexar** | Senior Flutter Developer | Architected SaaS fintech platforms (Lirat, P2P Syria, Card App); led a 5-member mobile team with Agile sprints, code reviews, and mentoring |
 | Jan 2023 – Feb 2024 | **NEOXERO** | Senior Flutter Developer | Delivered 6+ white-labeled e-commerce apps supporting Zid and Salla themes via Bagisto and OpenCart |
 | Apr 2022 – Dec 2022 | **Crystal Mind** | Flutter Developer | Built POS and ECR apps for ERP systems with reusable, testable POS SDK modules |
 | Mar 2021 – Apr 2022 | **WaitBuzz_Co** | Flutter Developer | Built customer-facing features aligned with business objectives |
+
+<br />
+
+#### 🤖 AI-Agent Engineering & Spec-Driven Development (SDD)
+
+> Championing modern **agentic engineering workflows** and **Spec-Driven Development (SDD)** to maximize development velocity, maintain high architectural standards, and streamline cross-functional delivery:
+
+- **Spec-Driven Development (SDD) & Spec-Kit:** Applying a spec-first methodology using **Spec-Kit** to formalize feature requirements, domain models, and API/state contracts into deterministic specifications and phased execution tasks before writing code.
+- **AI-Agent Tools & Superpowers:** Leveraging agentic tooling in **Cursor** and **Claude** with **Superpowers** to accelerate complex architecture scaffolding, test-driven iterations, and systematic refactoring.
+- **Skills & MCPs (Model Context Protocol):** Developing custom agent **Skills** and integrating **MCP servers** to connect AI agents with codebase context, runtime tools, local debugging environments, and third-party APIs.
+- **Streamlined AI Workflows:** Orchestrating human-in-the-loop agent workflows for automated code audits, regression testing, edge-case discovery, and rapid PR turnaround.
+
+<br />
 
 **Education:** B.Sc. in Computer Science, Mansoura University (2017 – 2021)
 
@@ -95,7 +109,7 @@ Notable integrations include **Zid** and **Salla** e-commerce themes (via Bagist
 
 ## Selected Projects
 
-A curated selection of production applications across e-commerce, delivery, fintech, logistics, and hospitality. *More projects coming soon.*
+A curated selection of production applications across e-commerce, delivery, fintech, food & beverage (QSR), logistics, and hospitality. *More projects coming soon.*
 
 ### <img src="https://play-lh.googleusercontent.com/aFC1QbGqER-fya27kCCV5wY7ChsVVYalZYcB6U6BIHrj4XYseoCpp5U_J6-ENcPJEHZaSkaNywUTHykLOQhp=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Khurdah — خردة
 **E-commerce · Circular Economy & Scrap Recycling Marketplace · Saudi Arabia**
@@ -108,7 +122,6 @@ The go-to circular economy scrap recycling marketplace operating across major ci
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.khurdah.client&hl=en)
 [![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ca/app/khurdah-%D8%AE%D8%B1%D8%AF%D8%A9/id6504227486)
-[![Website](https://img.shields.io/badge/Website-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://khurdah.com)
 
 ### <img src="https://play-lh.googleusercontent.com/bWFZeQFtzV-PW9yBWnRHDcea0MWd4AeFcQe-8M5iZ9CGe02DZqTnP4pu0Gdjeq52Hr5pug5Nn-A8qHf2lL3ClAo=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Khurdah Driver — سائق خردة
 **Logistics · Fleet & Dispatch Management · Saudi Arabia**
@@ -121,7 +134,6 @@ The dedicated logistics fleet companion application for Khurdah drivers across S
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.khurdah.driver&hl=en)
 [![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ca/app/asas-mineral-driver/id6695752692)
-[![Website](https://img.shields.io/badge/Website-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://khurdah.com)
 
 ### <img src="https://play-lh.googleusercontent.com/w6jMjljR1-Dqb5535PFtJn8Tp6bUMrxhnpZMoEq0U8l07o-Yu8EiKybpvh9eHeNJjWI5eMBetcUDBGe-g7yREw=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Khurdah ERP & Logistics — مندوب خردة
 **POS / ERP · Field Inspection & Enterprise Operations · Saudi Arabia**
@@ -134,7 +146,31 @@ The enterprise field operations application (Asas Mineral Rep) engineered for re
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.khurdah.rep&hl=en)
 [![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ca/app/asas-mineral-rep/id6698865452)
-[![Website](https://img.shields.io/badge/Website-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://khurdah.com)
+
+### <img src="https://play-lh.googleusercontent.com/eeksnU-a--wtLS1JloVWud-dg6-iotMLjfN3maWbvLVwApA3QUk9hXOlAnCD-qB32otaFq57zeWaEB3_NOfoeQ=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Kufa — كوفه
+**Food & Beverage (QSR) · On-Demand Ordering & Delivery · Saudi Arabia**
+
+The official mobile ordering platform for Al-Kufa Food Company, one of Saudi Arabia’s leading broasted and fried chicken chains with **19 branches covering the Kingdom**, achieving **10K+ downloads in its first year**. Owned the complete product engineering lifecycle — designing, architecting, and developing through to release and ongoing delivery, while hiring and leading the technical engineering team. Empowers customers to order meals effortlessly for home delivery or branch takeaway pickup without waiting.
+
+- End-to-end ordering flow with rich meal customization, branch pickup (takeaway), and doorstep delivery options
+- Dynamic digital menu with branch availability, combo builders, promotional discounts, and secure payment processing
+- Real-time order lifecycle tracking synchronized directly with kitchen operations and branch staff
+- Part of a 2-tier restaurant ecosystem integrated with **Kufa Manager** for automated kitchen and POS dispatching
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.kufa&hl=ar)
+[![App Store](https://img.shields.io/badge/App_Store-1D1D1F?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/sa/app/kufa-%D9%83%D9%88%D9%81%D9%87/id1598117189)
+
+
+### <img src="https://play-lh.googleusercontent.com/tKF1pydQVbsdmhSXApkz_BksxX1Bj7wZknMXZe8oOdn902Z3rdn4LcSj3R5xCk0thzlO9x0gH4M56Ra2I9c0=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Kufa Manager — مدير كوفة
+**POS / ERP · Branch Order Management & POS Integration · Saudi Arabia**
+
+The dedicated branch operations and order fulfillment application engineered for Al-Kufa store managers across all 19 branches in Saudi Arabia, orchestrating the full order journey from reception to preparation and final customer delivery.
+
+- Real-time branch order processing, kitchen prep tracking, and dispatch workflow coordination
+- Hardware integration with **Sunmi POS** smart terminals for automated order receipt printing, kitchen ticketing, and handover receipts
+- Branch-level operational controls including menu item availability toggles, order status transitions, and handover verification
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tasawk.kufa.manager&hl=ar)
 
 ### <img src="https://play-lh.googleusercontent.com/UkBTzQJwTncwbGkFATmXalOuqDflSdWROcboQgD_XtMbEvqMVM2I8EfsVQHYFImNqO7AMGNbCEQHeYCrIIV4eg=s64-rw" width="32" valign="middle" style="border-radius: 15%; object-fit: cover;" /> Lia — ليا
 **E-commerce · Multi-Vendor Gifting Marketplace**
