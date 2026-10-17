@@ -7,6 +7,7 @@ Building, leading, and delivering production mobile applications — from archit
 
 <br />
 
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-elbalooty.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elbalooty)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelbalooty123@gmail.com)
 ![Location](https://img.shields.io/badge/Cairo,_Egypt-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -267,6 +268,7 @@ A hotel discovery and booking platform across Saudi Arabia, supporting seasonal 
 
 Open to conversations about **Flutter leadership roles**, mobile architecture, and product delivery.
 
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-elbalooty.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elbalooty)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelbalooty123@gmail.com)
 
